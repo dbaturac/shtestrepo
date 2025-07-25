@@ -1,0 +1,2 @@
+
+echo "klasör altı test"
